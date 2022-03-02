@@ -1,0 +1,7 @@
+#image_display{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    background-position:center;
+    background-size: cover;
+}
